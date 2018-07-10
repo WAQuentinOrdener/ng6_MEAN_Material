@@ -1,7 +1,7 @@
 # ng6_MEAN_Material
 Complete app with 5 technology used (MongoDB, Express, Angular6, NodeJs, Material design)
 
-# Some uselful commands
+# Some useful commands
 
 ng g m path/to/module --module nameOfParentModule
 
