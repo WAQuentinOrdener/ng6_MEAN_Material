@@ -3,9 +3,11 @@ Complete app with 5 technology used (MongoDB, Express, Angular6, NodeJs, Materia
 
 # Some useful commands
 
-ng g m path/to/module --module nameOfParentModule
+ng g module path/to/module --module nameOfParentModule --routing
 
 ng g c path/to/myCompoment --module nameOfTheModuleToAttach
+
+ng g class path/to/class --module nameOfTheModuleToAttach
 
 ng g s path/to/service 
 
